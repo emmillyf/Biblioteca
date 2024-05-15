@@ -1,0 +1,9 @@
+2024-05-15 17:31:11.740734-03:00 jdbc[44]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TITULO CHARACTER VARYING(30)": "'Harry Potter - Prisioneiro de Azkaban' (37)"; SQL statement:
+insert into livro (autor,data_publicacao,editora,titulo,id_livro) values (?,?,?,?,default) [22001-224]
+2024-05-15 17:32:11.637011-03:00 jdbc[54]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TITULO CHARACTER VARYING(30)": "'Harry Potter - Prisioneiro de Azkaban' (37)"; SQL statement:
+insert into livro (autor,data_publicacao,editora,titulo,id_livro) values (?,?,?,?,default) [22001-224]
+2024-05-15 17:34:10.990918-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "TITULO CHARACTER VARYING(30)": "'Harry Potter: Prisioneiro de Azkaban' (36)"; SQL statement:
+insert into livro (autor,data_publicacao,editora,titulo,id_livro) values (?,?,?,?,default) [22001-224]
