@@ -28,10 +28,10 @@ spring-boot-starter-validation</p>
 <h1 align="center"># Endpoints</h1> 
 <p>
   findall: localhost:8080/Livro <br>
-  findById:localhost:8080/Livro/16 <br>
-  Put: localhost:8080/Livro/16 <br>
+  findById:localhost:8080/Livro/6 <br>
+  Put: localhost:8080/Livro/6 <br>
   Post: localhost:8080/Livro <br>
-  delete: localhost:8080/Livro/16 <br>
+  delete: localhost:8080/Livro/1 <br>
 </p>
     
  <h1 align="center"> Autor </h1>
